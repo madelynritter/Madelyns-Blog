@@ -4,4 +4,4 @@
 
 **Project URL:** https://labs.library.vcu.edu/klan/
 
-![map of united states](https://madelynritter.github.io/Madelyns-Blog/images/map.jpg)
+![map](https://madelynritter.github.io/Madelyns-Blog/images/map.jpg)
