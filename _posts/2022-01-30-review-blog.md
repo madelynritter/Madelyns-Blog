@@ -2,6 +2,6 @@
 
 **Project Director:** John Kneebone
 
-**Project URL:** https://labs.library.vcu.edu/klan/
+**Project URL:** (https://labs.library.vcu.edu/klan/)
 
 ![map](https://madelynritter.github.io/Madelyns-Blog/images/map.jpg)
