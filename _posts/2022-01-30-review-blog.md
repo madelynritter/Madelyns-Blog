@@ -26,4 +26,6 @@ In addition, the links on the map are geographically accurate and are able to pr
 
 I was able to enjoy this project because I have access to a computer; a main issue that I found while studying this project was that it does not work at all on mobile devices. The viewer is able to read the supplemental research, but the interactive map is unusable. This is an issue of accessibility, so I would like to see the creators of this project expand it to a mobile friendly site.
 
+![mobile](https://madelynritter.github.io/Madelyns-Blog/images/mobile.jpg)
+
 Overall, this project is very well done and should be commended for its’ merge of historical research and technology to educate users on something that they might not have thought about before. It also advocates for minority groups by highlighting the rebellion to the Klan in the research portion of the site; this is a digital humanities project that does a great job of teaching about a very dark time in history.
