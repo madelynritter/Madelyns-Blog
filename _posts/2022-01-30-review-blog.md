@@ -24,7 +24,7 @@ Mapping the Second Ku Klux Klan, 1915-1940 uses mapping technology to merge hist
 
 In addition, the links on the map are geographically accurate and are able to provide some information, but do not provide any research or historical information on the particular Klavern; instead, it just states when and where it was created and makes the user do their research to find out more about them. If the information was present when the user clicked on the dots, this would lead to an easier educational experience because of the readily accessible information.
 
-I was able to enjoy this project because I have access to a computer; a main issue that I found while studying this project was that it does not work at all on mobile devices. The viewer is able to read the supplemental research, but the interactive map is unusable. This is an issue of accessibility, so I would like to see the creators of this project expand it to a mobile friendly site.
+I was able to enjoy this project because I have access to a computer; a main issue that I found while studying this project was that it does not work at all on mobile devices. The viewer is able to read the supplemental research, but the interactive map is unusable. Instead, a gif of the map comes up. This is an issue of accessibility, so I would like to see the creators of this project expand it to a mobile friendly site.
 
 ![mobile](https://madelynritter.github.io/Madelyns-Blog/images/mobile.jpg)
 
