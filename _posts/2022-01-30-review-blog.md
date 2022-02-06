@@ -25,7 +25,7 @@ I believe this project could be improved by adding instructions for how to work 
 A main issue that I found while studying this project was that it does not work at all on mobile devices. The viewer is able to read the supplemental research, but the interactive map is unusable. Instead, an automated gif of the map comes up, which is pictured below. I was able to enjoy this project because I have access to a computer, but this is not the case for everyone. This is an accessibility issue, so I would like to see the creators of this project expand it to a mobile friendly platform so that everyone can enjoy it.
 
 ![mobile](https://madelynritter.github.io/Madelyns-Blog/images/mobile.gif)
- <center>
+<center>
     <img src="assets/images/mobile.gif">
 </center>
 
