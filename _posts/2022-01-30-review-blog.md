@@ -26,4 +26,8 @@ A main issue that I found while studying this project was that it does not work 
 
 ![mobile](https://madelynritter.github.io/Madelyns-Blog/images/mobile.gif)
 
+<p align="center">
+  ![mobile](https://madelynritter.github.io/Madelyns-Blog/images/mobile.gif)
+</p>
+
 Overall, this project is very well done; MSKKK should be commended for its’ merge of historical research and technology to educate users on something that they might not have thought about before. It also advocates for minority groups by highlighting minority groups on the research portion of the site. This is a digital humanities project that does a great job of teaching about a very dark time in history.
