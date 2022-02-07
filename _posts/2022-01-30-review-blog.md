@@ -20,7 +20,7 @@ The project even offers contact information so that if the user has information 
 ### **FINDINGS**
 *Mapping the Second Ku Klux Klan* merges interactive mapping technology and historical data that provide for a very educational experience for the user. I personally enjoyed clicking on dots in my area to see which Klaverns were established in the places I grew up.
 
-The red dots on the map are geographically accurate and are able to provide some information, but do not provide any further research on the particular Klavern. Instead, they just state when and where the Klavern was created, which makes the user have to do their own research to find out more about them; this is pictured below. The dots provide links to more information on the *sources*, but just brings you to a generalized list of sources for the project. If the information was readily available each time the user clicked on one of the dots, it would lead to an easier educational experience.
+The red dots on the map are geographically accurate and are able to provide some information, but do not provide any further research on the particular Klavern. Instead, they just state when and where the Klavern was created, which makes the user have to do their own research to find out more about them; this is pictured below. The dots provide links to more information on the *sources*, but just brings you to a long, generalized list of sources for the project. If the information was readily available each time the user clicked on one of the dots, it would lead to an easier educational experience.
 
 ![red dot](https://madelynritter.github.io/Madelyns-Blog/images/reddot.jpg)
 
