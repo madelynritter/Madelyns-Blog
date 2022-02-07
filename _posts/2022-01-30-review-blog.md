@@ -26,7 +26,7 @@ The red dots on the map are geographically accurate and are able to provide some
 
 When I first visited the site, I wasn't sure what to do or where to begin on the map. I believe this project could be improved by adding instructions for how to work the zoom in/out feature to progress the data from 1915 to 1940, as this could be unclear to some viewers. The user also has to do some searching to find the supplemental research on the site. Placing the *Learn More* tab on the front page instead of in the *About* section would eliminate this issue and motivate more people to click on it.
 
-A prevalent issue that I found while studying this project was that it does not work at all on mobile devices. The viewer is able to read the supplemental research, but the interactive map is unusable. Instead, an automated gif of the map comes up, which is pictured below. I was able to enjoy this project because I have access to a computer, but this is not the case for everyone. This is an accessibility issue, so I would like to see the creators of this project expand it to a mobile friendly platform so that everyone can enjoy it.
+A prevalent issue that I found while studying this project was that it does not work at all on mobile devices. The viewer is able to read the supplemental research, but the interactive map is unusable. Instead, an automated gif of the map comes up, which is provided below. I was able to enjoy this project because I have access to a computer, but this is not the case for everyone. This is an accessibility issue, so I would like to see the creators of this project expand it to a mobile friendly platform so that everyone can enjoy it.
 
 ![mobile](https://madelynritter.github.io/Madelyns-Blog/images/mobile.gif)
 
