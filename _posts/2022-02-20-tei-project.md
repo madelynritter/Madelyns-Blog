@@ -1,9 +1,9 @@
 
-### Introduction
+### INTRODUCTION
 
 For the Text Encoding Initiative (TEI) project, I was given a portion of Bram Stoker’s short story Dracula’s Guest. Dracula’s Guest is one part of a larger novel by Stoker, Dracula, that was released posthumously in 1914. I was tasked with coding and marking up a section located in pages 10 and 11 of Dracula’s Guest in an application called Oxygen, an XML editor.
 
-### The Oxygen Process
+### THE CODING PROCESS
 
 To begin the project, Dr. Stover assigned us sections of the short story and put them into a Google Doc so that we could pick out the information in the text that we would eventually code using XML. While my section of the story did not have much to pick out, I noticed that the majority of the notes I had to make were regarding em-dashes. This portion of the project was vital to my success with coding because it made it easy to transfer what I needed to code from a platform I am very familiar with to one that I had never used before. A screenshot of my markup in Google Docs is located below.
 
