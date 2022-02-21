@@ -13,7 +13,7 @@ Next, we dove into Oxygen and began actually using XML coding to bring our passa
 
 ![finished product on oxygen](https://madelynritter.github.io/Madelyns-Blog/images/oxygen.jpg)
 
-I struggled with a few elements of this project, the first being the paragraph tags. It seemed like whenever I would type `<p>`, it would automatically correct to `</p>` without me typing it. This was very frustrating at first because I didn’t realize what I was doing wrong, but a classmate led me to a solution and I quickly got back on track; I just had to keep a close eye on what I was typing. In addition, I was having issues with the tag that would indicate the start of a new page, `<pb n=“1”/>`. Every time I would copy and paste it, Oxygen would mark it invalid. I fixed it by replacing the quotation marks in the tag, as I learned that an error would occur in the transferring process of copying and pasting the code. 
+I struggled with a few elements of this project, the first being the paragraph tags. It seemed like whenever I would type `<p>`, it would automatically correct to `</p>` without me typing it. This was very frustrating at first because I didn’t realize what I was doing wrong, but a classmate led me to a solution and I quickly got back on track; I just had to keep a close eye on what I was typing. In addition, I was having issues with the tag that would indicate the start of a new page, `<pb n=“1"/>`. Every time I would copy and paste it, Oxygen would mark it invalid. I fixed it by replacing the quotation marks in the tag, as I learned that an error would occur in the transferring process of copying and pasting the code. 
 
 ### FINAL THOUGHTS
 
