@@ -1,9 +1,9 @@
 
-###Introduction
+### Introduction
 
 For the Text Encoding Initiative (TEI) project, I was given a portion of Bram Stoker’s short story Dracula’s Guest. Dracula’s Guest is one part of a larger novel by Stoker, Dracula, that was released posthumously in 1914. I was tasked with coding and marking up a section located in pages 10 and 11 of Dracula’s Guest in an application called Oxygen, an XML editor.
 
-###The Oxygen Process
+### The Oxygen Process
 
 To begin the project, Dr. Stover assigned us sections of the short story and put them into a Google Doc so that we could pick out the information in the text that we would eventually code using XML. While my section of the story did not have much to pick out, I noticed that the majority of the notes I had to make were regarding em-dashes. This portion of the project was vital to my success with coding because it made it easy to transfer what I needed to code from a platform I am very familiar with to one that I had never used before. A screenshot of my markup in Google Docs is located below.
 
@@ -13,8 +13,8 @@ Next, we dove into Oxygen and began actually using XML coding to bring our passa
 
 ![finished product on oxygen](https://madelynritter.github.io/Madelyns-Blog/images/oxygen.jpg)
 
-I struggled with a few elements of this project, the first being the paragraph tags. It seemed like whenever I would type "<p>", it would automatically correct to "</p>" without me typing it. It was very frustrating at first because I didn’t realize what I was doing wrong, but a classmate helped me and I quickly got back on track. In addition, I was having issues with the tag that would indicate the start of a new page, "<pb n=“1”/>". Everytime I would copy and paste it, Oxygen would mark it invalid. I fixed it by replacing the quotation marks in the tag, as I learned that it would mess up in the transferring process. 
+I struggled with a few elements of this project, the first being the paragraph tags. It seemed like whenever I would type '<p>', it would automatically correct to '</p>' without me typing it. It was very frustrating at first because I didn’t realize what I was doing wrong, but a classmate helped me and I quickly got back on track. In addition, I was having issues with the tag that would indicate the start of a new page, '<pb n=“1”/>'. Everytime I would copy and paste it, Oxygen would mark it invalid. I fixed it by replacing the quotation marks in the tag, as I learned that it would mess up in the transferring process. 
 
-###FINAL THOUGHTS
+### FINAL THOUGHTS
 
 Overall, I enjoyed this assignment greatly. It was a nice, easy introduction to coding that was low stakes and allowed me to explore the field of computer science for the first time. The greatest takeaway from this assignment was that I must pay attention to detail in order to be successful because one mistake can ruin the entire project. I hope that we use Oxygen again in this class as well as other classes in the Digital Humanities minor, as it adds an element of creativity to projects and will aid me in future careers.
