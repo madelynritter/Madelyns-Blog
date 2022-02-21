@@ -1,7 +1,7 @@
 
 ### INTRODUCTION
 
-For the Text Encoding Initiative (TEI) project, I was given a portion of Bram Stoker’s short story Dracula’s Guest. Dracula’s Guest is one part of a larger novel by Stoker, Dracula, that was released posthumously in 1914. I was tasked with coding and marking up a section located in pages 10 and 11 of Dracula’s Guest in an application called Oxygen, an XML editor.
+For the Text Encoding Initiative (TEI) project, I was given a portion of Bram Stoker’s short story Dracula’s Guest. Dracula’s Guest is one part of a larger novel by Stoker, Dracula, that was released posthumously in 1914. I was tasked with coding and marking up a section located in pages 10 and 11 of Dracula’s Guest in an application called Oxygen, an easy-to-use coding program that uses eXtensible Markup Language (XML).
 
 ### THE CODING PROCESS
 
