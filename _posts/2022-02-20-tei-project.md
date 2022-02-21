@@ -17,4 +17,4 @@ I struggled with a few elements of this project, the first being the paragraph t
 
 ### FINAL THOUGHTS
 
-Overall, I enjoyed this assignment greatly. It was a nice, easy introduction to coding that was low stakes and allowed me to explore the field of computer science for the first time. The greatest takeaway from this assignment was that I must pay attention to detail in order to be successful because one mistake can ruin the entire project. I hope that we use Oxygen again in this class as well as other classes in the Digital Humanities minor, as it adds an element of creativity to projects and will aid me in future careers.
+Overall, I enjoyed this assignment greatly. It was a nice, easy introduction to coding that was low stakes and allowed me to explore the field of computer science for the first time. The greatest takeaway from this assignment was that I must pay attention to detail in order to be successful because one mistake can ruin the entire project. I hope that we use Oxygen again not only in this class, but other classes in the Digital Humanities minor as well; it adds an exciting element of creativity to projects and will aid me in future careers.
