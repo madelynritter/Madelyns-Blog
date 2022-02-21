@@ -2,7 +2,11 @@ For the Text Encoding Initiative (TEI) project, I was given a portion of Bram St
 
 To begin the project, Dr. Stover assigned us sections of the short story and put them into a Google Doc so that we could pick out the information in the text that we would eventually code using XML. While my section of the story did not have much to pick out, I noticed that the majority of the notes I had to make were regarding em-dashes. This portion of the project was vital to my success with coding because it made it easy to transfer what I needed to code from a platform I am very familiar with to one that I had never used before.
 
+![picture of google doc](https://madelynritter.github.io/Madelyns-Blog/images/google.jpg)
+
 Next, we dove into Oxygen and began actually using XML coding to bring our passage to life. This application did not look very user friendly at first (especially to someone who has never coded before), but after listening to the introduction and explanation by my professor I felt like I was ready to begin. After beginning to code my section, the XML language came second nature to me and I was able to swiftly finish my project in one class period. The tutorial and key of tags that Dr. Stover posted to Scholar was extremely beneficial when working on the project.
+
+![finished product on oxygen](https://madelynritter.github.io/Madelyns-Blog/images/oxygen.jpg)
 
 I struggled with a few elements of this project, the first being the paragraph tags. It seemed like whenever I would type <p>, it would automatically correct to </p> without me typing it. It was very frustrating at first because I didn’t realize what I was doing wrong, but a classmate helped me and I quickly got back on track. In addition, I was having issues with the tag that would indicate the start of a new page, <pb n=“1”/>. Everytime I would copy and paste it, Oxygen would mark it invalid. I fixed it by replacing the quotation marks in the tag, as I learned that it would mess up in the transferring process. 
 
