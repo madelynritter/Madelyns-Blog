@@ -1,21 +1,21 @@
-##Definition of Digital Humanities
+## Definition of Digital Humanities
 Now that I have taken Writing for the Digital Humanities, I have a much better understanding of the field. At the beginning of the semester, I had a beginner’s understanding about the field of study; I had taken “Introduction to the Digital Humanities” and figured that this class could be a good writing intensive to take for graduation and to fulfill my DH minor. Through the course of the semester, I have sustained a love for the field that I already had and have enjoyed diving deeper into all it has to offer. 
 
 My definition of Digital Humanities did not change throughout the semester, as I came into this class already having an idea of what the field was. As I stated in our class activity defining DH, the definition of Digital Humanities is “the combination of traditional humanities elements with technological advances for the purpose of gathering data and critically thinking about a research question in order to educate the public or advocate for a certain topic.” This definition embodies what DH means to me. It means creating a project using relevant research in the humanities field that serves a purpose of advocating or educating for the public good.
 
-##Readings
+## Readings
 The articles about the Digital Humanities that we read outside of class were helpful in supplementing my understanding of the course content, but many of the readings talked about similar concepts and it began to feel repetitive after reading them for an entire semester. I feel as though our class discussions were what helped me the most to understand Digital Humanities, rather than scholarly readings that used a lot of jargon and were sometimes confusing.
 
 Although I believe that some of the readings were repetitive, a few stood out as being helpful to the process of creating projects and understanding how to become a better writer. *Managing your Digital Identity* by Kate Meyers was useful when starting to use Twitter, as I had never used the app for academic purposes. It is completely different than having a personal account, so getting tips on how to remain professional was vital to my success. Also, *Shitty First Drafts* was a reading I had looked at before in IDST 270, but was just as relevant, if not more, while doing the Grant Project. It is hard for me to intentionally make mistakes, but this reading really knocked me out of that headspace. I have attached a tweet posted in reaction to reading *Shitty First Drafts* below.
 
 ![tweet](https://madelynritter.github.io/Madelyns-Blog/images/shitty.jpg)
 
-##Course Assignments
+## Course Assignments
 The assignment that we completed in class that was my favorite was the About Me, Review, and TEI blog posts, mainly because I ***extremely*** enjoyed learning to use GitHub this semester. Being new to this application as well as markdown, I found it very difficult to get to know the program and learn how to insert images, make my markdown show up, and create new files. After getting over this initial hump, I have found that I love expressing myself through GitHub. I feel as though using technology adds an interactive, eye-catching element to normal writing, which makes my projects stand out among the rest.
 
 An assignment that challenged me this semester was the Grant Proposal project. I had never written an annotated bibliography before this semester, but completing that aspect of the project deepened my understanding of the DH field and showed me how research could better my proposal. Finding sources that would support a project that I wasn’t familiar with was extremely difficult, but fulfilling. I had trouble writing about a project that I couldn’t picture in my head, but soon learned that is normal for a Grant Proposal, so it actually prepared me for the future in my academic career. This project made me a better writer, as I learned how to edit drafts to make them easier to read.
 
-##How Have I Grown as a Digital Humanist?
+## How Have I Grown as a Digital Humanist?
 The main area that I have improved in is using different technology, which in turn, makes me a better humanist. Before taking this class, coding was not a strong suit of mine; doing the TEI project involving Oxygen and using GitHub and markdown to create blog posts has opened my eyes to how enjoyable coding and using technology can be. Now, I find it to be second nature and think it is so fun to be able to bring my work to life; I have attached a screenshot of my first coding project, *Dracula's Guest*, below. 
 
 ![profile picture](https://madelynritter.github.io/Madelyns-Blog/images/oxygen.jpg)
