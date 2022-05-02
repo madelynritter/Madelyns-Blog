@@ -18,7 +18,7 @@ An assignment that challenged me this semester was the Grant Proposal project. I
 ## How Have I Grown as a Digital Humanist?
 The main area that I have improved in is using different technology, which in turn, makes me a better humanist. Before taking this class, coding was not a strong suit of mine; doing the TEI project involving Oxygen and using GitHub and markdown to create blog posts has opened my eyes to how enjoyable coding and using technology can be. Now, I find it to be second nature and think it is so fun to be able to bring my work to life; I have attached a screenshot of my first coding project, *Dracula's Guest*, below. 
 
-![profile picture](https://madelynritter.github.io/Madelyns-Blog/images/oxygen.jpg)
+![screenshot of oxygen](https://madelynritter.github.io/Madelyns-Blog/images/oxygen.jpg)
 
 Moreover, the Twitter posts held me accountable for completing and retaining information that we went over in readings and in class and was a fun way to put my thoughts about class content into an interactive platform where I could get my classmates’ feedback and viewpoints. I now am motivated to use these tools in my writing as a way to spice it up and make it more impactful.
 
