@@ -14,5 +14,7 @@ An assignment that challenged me this semester was the Grant Proposal project. I
 
 In conclusion, I believe that I have grown as not only a Digital Humanist, but also as a writer and mainly as a researcher and technology user. The GitHub blog posts as well as the Grant Project allowed me to express my ideas in writing in a creative way, which I feel made them more impactful. They also allowed me to learn important tools for writing, such as the importance of conciseness in a final draft and how to pick out relevant sources for a DH project. Moreover, the Twitter posts held me accountable for completing and retaining information that we went over in readings and in class and was a fun way to put my thoughts about class content into an interactive platform where I could get my classmates’ feedback and viewpoints.
 
+![profile picture](https://madelynritter.github.io/Madelyns-Blog/images/oxygen.jpg)
+
 The main area that I have improved in is using different technology, which in turn makes me a better humanist. Before taking this class, coding was not a strong suit of mine; doing the TEI project involving Oxygen and using GitHub and markdown to create blog posts has opened my eyes to how enjoyable coding and using technology can be. I now am motivated to use these tools in my writing as a way to spice it up and make it more impactful. I am now able to create projects that will educate others and advocate for topics that I feel are important, while also being concise and straightforward from my growth as a writer.
 
